@@ -12,3 +12,5 @@ Notes:
     + https://github.com/mongomock/mongomock/blob/4.1.2/setup.py
     + https://github.com/mongomock/mongomock/blob/4.1.2/setup.cfg
 
+  Existing issue: https://github.com/mongomock/mongomock/issues/850
+
