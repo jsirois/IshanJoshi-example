@@ -1,0 +1,5 @@
+cachetools~=4.2.4
+mongomock
+requests~=2.25.0
+requests_mock
+setuptools
